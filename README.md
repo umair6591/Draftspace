@@ -4,7 +4,7 @@ DraftSpace is a deliberately scoped collaborative document editor MVP built for 
 
 ## Live Demo
 
-Live product URL: TODO
+Live product URL: https://draftspace-nine.vercel.app/
 
 Reviewer test account:
 
